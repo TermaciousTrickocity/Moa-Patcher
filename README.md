@@ -1,4 +1,4 @@
-# Kill-All-Moa
+# Moa-Patcher
 *A map patcher that removes all of the stupid challenge moa.*
 
 <img width="374" height="211" alt="explode" src="https://github.com/user-attachments/assets/f46bdddf-e131-4e04-9f67-0c9f8e91a3ff" />
